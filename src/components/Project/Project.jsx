@@ -27,6 +27,8 @@ function Project() {
                   see project
                 </a>
               </button>
+              <p>demo Email:{item.demoEmail}</p>
+              <p>demo Password:{item.demoPassword}</p>
               <hr />
             </div>
           </div>

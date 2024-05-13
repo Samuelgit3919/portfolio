@@ -9,6 +9,8 @@ const data = [
     img: pro2,
     gitCode: "https://github.com/Samuelgit3919/GPT-3",
     buttonHref: "https://gpt-3-sooty-nine.vercel.app/",
+    demoEmail: "-",
+    demoPassword: "-",
   },
   {
     title: "2. Online Restaurant Booking",
@@ -17,6 +19,8 @@ const data = [
     img: pro1n3,
     gitCode: "https://github.com/Samuelgit3919/GPT-3",
     buttonHref: "https://samrestorant.netlify.app/",
+    demoEmail: "-",
+    demoPassword: "-",
   },
   {
     title: "2.Vans-renting",
@@ -25,6 +29,8 @@ const data = [
     img: van,
     gitCode: "https://github.com/Samuelgit3919/Vans-renting",
     buttonHref: "https://vans-renting.vercel.app/",
+    demoEmail: "demo@d.com",
+    demoPassword: "demo123",
   },
 ];
 

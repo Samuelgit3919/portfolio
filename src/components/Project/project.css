@@ -44,7 +44,7 @@
 }
 @media (min-width: 768px) {
     .project-class{
-        margin: 1rem 10rem;
+        margin: 1rem 9rem;
     }
     .project-description{
         display: flex;
