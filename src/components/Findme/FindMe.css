@@ -1,0 +1,26 @@
+.find-me{
+    text-align: center;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+}
+.find-me a{
+    text-decoration: none;
+    color: black;
+    gap: 10px;
+}
+.find-me div{
+    margin: 10px;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding: 10px;
+    gap: 10px;
+}
