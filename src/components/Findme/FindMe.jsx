@@ -6,7 +6,7 @@ import { BsTelegram } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa6";
 function FindMe() {
   return (
-    <div className="find-me">
+    <div className="find-me" id="contact">
       <div>
         <h2>Hit me up! without hesitate</h2>
         <div>
