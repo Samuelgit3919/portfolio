@@ -65,12 +65,12 @@ function Projects() {
                     it's an ideal choice for personal and business transportation needs.
                   </p>
                   <div>
-                    <a href='#'>
+                    <a target="_blank" href='https://github.com/Samuelgit3919/Vans-renting'>
                       <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>code</span>
                       <FaGithub style={{ fontSize: "24px" }} />
                     </a>
-                    <a href="#">
-                      <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>live demo</span>
+                    <a target="_blank" href="https://vans-renting.vercel.app/">
+                      <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}> </span>
                       <VscLiveShare style={{ fontSize: "3rem", margin: "0.5rem", justifyContent: "center" }} />
                     </a>
                   </div>
@@ -87,11 +87,11 @@ function Projects() {
                     tasks. GPT-3 is the third iteration of the GPT series, following GPT and GPT-2.
                   </p>
                   <div>
-                    <a href='#'>
+                    <a target="_blank" href=''>
                       <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>code</span>
                       <FaGithub style={{ fontSize: "24px" }} />
                     </a>
-                    <a href="#">
+                    <a target="_blank" href="https://gpt-3-sooty-nine.vercel.app/">
                       <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>live demo</span>
                       <VscLiveShare style={{ fontSize: "3rem", margin: "0.5rem", justifyContent: "center" }} />
                     </a>
@@ -113,11 +113,11 @@ function Projects() {
 
                   </p>
                   <div>
-                    <a href='#'>
+                    <a target="_blank" href=''>
                       <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>code</span>
                       <FaGithub style={{ fontSize: "24px" }} />
                     </a>
-                    <a href="#">
+                    <a target="_blank" href="https://samrestorant.netlify.app/">
                       <span style={{ fontSize: "24px", color: "black", margin: "1rem", padding: "1rem" }}>live demo</span>
                       <VscLiveShare style={{ fontSize: "3rem", margin: "0.5rem", justifyContent: "center" }} />
                     </a>
